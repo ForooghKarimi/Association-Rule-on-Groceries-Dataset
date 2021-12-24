@@ -1,6 +1,5 @@
-# Association-Rule-on-Groceries-Dataset (Python & R)
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Market-Basket-Analysis-Groceries-Dataset (with Python & R)
+> In this project I tried to predict purchasing behaviours of customers using apriori algorithm (Association Rule). This rule shows how frequently a itemset occurs in a transaction and can be used to predict what a customer will buy next. 
 
 ## Table of Contents
 * [General Info](#general-information)
