@@ -4,5 +4,4 @@
 
 
 ## General Information
-- Association Rule Mining is a Data Mining technique that finds patterns in data.
-- The patterns found by Association Rule Mining represent relationships between items. When this is used with sales data, it is referred to as Market Basket Analysis.  It works by looking for combinations of items that occur together frequently in transactions. To put it another way, it allows retailers to identify relationships between the items that people buy.
+- Association Rule Mining is a Data Mining technique for discovering interesting relations between variables in large databases. It is intended to identify strong rules discovered in databases using some measures of interestingness
