@@ -1,5 +1,5 @@
 # Market-Basket-Analysis-Groceries-Dataset (with Python & R)
-> In this project I tried to predict purchasing behaviour of customers using apriori algorithm (Association Rule). This rule shows how frequently a itemset occurs in a transaction and can be used to predict what a customer will buy next. 
+> In this project I tried to predict purchasing behaviour of customers using apriori algorithm (Association Rule). This rule shows how frequently an itemset occurs in a transaction and can be used to predict what a customer will buy next. 
 * the project is built with both Python and R. 
 
 
